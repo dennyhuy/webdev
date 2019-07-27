@@ -1,0 +1,62 @@
+.tdto{
+    font-family: 'Kanit', sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+    color: #00bbf3;
+    border-left: 5px solid #00bbf3;
+    padding-left: 6px;
+}
+.trai{
+    width: 426px;
+    height: 540px;
+    background-color: white;
+    margin-right: 7px;
+    float: left;
+}
+.trai img {
+    width: 425px;
+}
+.trai a.tdtrai{
+    color: #004f8b;
+    text-decoration: none;
+    font-family: 'Kanit', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    padding-left: 17px;
+    padding-right: 17px;
+    display: block;
+    line-height: 26px;
+}
+.trai p{
+    font-size: 13px;
+    color: #004f8b;
+    font-family: arial;
+    padding-left: 17px;
+    padding-right: 17px;
+    display: block;
+    padding: 0 15px;
+
+}
+.phai {
+    width: 504px;
+    float: left;
+}
+.mottin{
+    width: 207px;
+    height: 272px;
+    float: left;
+    margin-right: 15px;
+}
+.mottin img {
+    width:207px;
+}
+a.tdphai{
+    text-decoration: none;
+    color: black;
+    font-family: tahoma;
+    font-size: 13px;
+    font-weight: bold;
+}
+.duoi {
+    margin-top: 5px;
+}
